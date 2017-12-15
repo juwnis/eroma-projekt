@@ -10,6 +10,21 @@ template: bb-theme
 
 /* Add your custom styles here... */ 
 
-.fl-logo-text {
-	color:red!important;
+
+.woocommerce-ordering {
+    display: block;
+    float: left !important;
+    padding-bottom:20px;
+}
+ 
+.woocommerce-result-count {
+    clear: left;
+}
+
+#menu-main-menu {
+	font-size:15px !important;
+}
+
+.fl-page-footer {
+	font-size:15px !important;
 }
